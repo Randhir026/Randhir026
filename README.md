@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Randhir Kumar</h1>
 <h3 align="center">A passionate about coding and tech.</h3>
 
-<img align="left" alt="coding" width="400" src="https://camo.githubusercontent.com/45f38275a43c21d597af89d2576204d3f4668ae29d0e09f8005421ad7746ac23/68747470733a2f2f676174746f6e7765622e756b792e6564752f666163756c74792f6c69756d2f6d6c2f736c6964655f7374726964652e676966">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/45f38275a43c21d597af89d2576204d3f4668ae29d0e09f8005421ad7746ac23/68747470733a2f2f676174746f6e7765622e756b792e6564752f666163756c74792f6c69756d2f6d6c2f736c6964655f7374726964652e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=randhir026&label=Profile%20views&color=0e75b6&style=flat" alt="randhir026" /> </p>
 
 - 📫 How to reach me **randhirkumar015@gmail.com**
