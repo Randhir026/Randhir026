@@ -1,16 +1,261 @@
-![logo](github-header-image.png)
-<h1 align="center">Hi 👋, I'm Randhir Kumar</h1>
-<h3 align="center">A passionate about coding and tech.</h3>
+# 👋 Hi, I'm Randhir Kumar
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/45f38275a43c21d597af89d2576204d3f4668ae29d0e09f8005421ad7746ac23/68747470733a2f2f676174746f6e7765622e756b792e6564752f666163756c74792f6c69756d2f6d6c2f736c6964655f7374726964652e676966">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=randhir026&label=Profile%20views&color=0e75b6&style=flat" alt="randhir026" /> </p>
+<h3 align="center">
+  🤖 AI/ML Enthusiast &nbsp; | &nbsp; 👁️ Computer Vision &nbsp; | &nbsp; 🐍 Python Developer
+</h3>
 
-- 📫 How to reach me **randhirkumar015@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+---
+
+## 🧬 About Me
+
+```text
+╔═══════════════════════════════════════════════════════════=═══╗
+║                     AI / ML DEVELOPER                         ║
+╠═════════════════════════════════════════════════════════=═════╣
+║  🧠 Machine Learning      → Predictive & Intelligent Systems ║
+║  🤖 Generative AI         → LLMs & RAG Applications          ║
+║  👁️ Computer Vision        → YOLO, OpenCV & Deep Learning    ║
+║  🗣️ NLP                   → Text Processing & Embeddings     ║
+║  ⚙️ Backend               → FastAPI, Django & REST APIs      ║
+║  🗄️ Database              → MySQL, PostgreSQL & SQL          ║
+║  🐳 Deployment            → Docker & AI Environments         ║
+╚═══════════════════════════════════════════════════════════=═══╝
+```
+
+I'm passionate about building **practical AI systems** that combine machine learning, computer vision, NLP, and generative AI.
+
+* 🔭 Currently focused on **AI/ML, Generative AI, RAG & Computer Vision**
+* 🧠 Exploring **LLMs, AI Agents, Embeddings & Vector Databases**
+* 👁️ Building real-time vision applications using **YOLOv8 & OpenCV**
+* 📄 Developing **RAG-based document intelligence systems**
+* ⚡ Building APIs with **FastAPI, Django & REST**
+* 🐳 Learning AI deployment using **Docker**
+* 🔗 Exploring **n8n, workflow automation & API integrations**
+* 📊 Working with **SQL, Power BI & data analytics**
+* 🚀 Always learning, experimenting and building
+
+📫 **Email:** `randhirkumar015@gmail.com`
+
+---
+
+# 🧠 AI / ML TECH STACK
+
+## 🐍 Programming & Data
+
 <p align="left">
+
+<a href="https://www.python.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55" height="55" alt="Python"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="55" height="55" alt="MySQL"/>
+</a>
+
+<a href="https://www.postgresql.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="55" height="55" alt="PostgreSQL"/>
+</a>
+
+<a href="https://pandas.pydata.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="55" height="55" alt="Pandas"/>
+</a>
+
+<a href="https://numpy.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="55" height="55" alt="NumPy"/>
+</a>
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+**Skills**
 
+`Python` • `SQL` • `Pandas` • `NumPy` • `Data Analysis` • `Data Preprocessing`
+
+---
+
+# 🤖 Machine Learning & Deep Learning
+
+<p align="left">
+
+<a href="https://scikit-learn.org/" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="65" height="55" alt="Scikit-learn"/>
+</a>
+
+<a href="https://www.tensorflow.org/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="55" height="55" alt="TensorFlow"/>
+</a>
+
+<a href="https://pytorch.org/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="55" height="55" alt="PyTorch"/>
+</a>
+
+</p>
+
+**Skills**
+
+`Machine Learning` • `Deep Learning` • `Supervised Learning` • `Unsupervised Learning`
+`Regression` • `Classification` • `Clustering` • `Feature Engineering`
+`Model Evaluation` • `CNN` • `Neural Networks`
+
+---
+
+# 👁️ Computer Vision
+
+<p align="left">
+
+<a href="https://opencv.org/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"
+width="55" height="55" alt="OpenCV"/>
+</a>
+
+<a href="https://www.ultralytics.com/" target="_blank">
+<img src="https://cdn.worldvectorlogo.com/logos/ultralytics.svg"
+width="55" height="55" alt="YOLO / Ultralytics"/>
+</a>
+
+<a href="https://pytorch.org/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"
+width="55" height="55" alt="PyTorch"/>
+</a>
+
+<a href="https://www.tensorflow.org/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"
+width="55" height="55" alt="TensorFlow"/>
+</a>
+
+</p>
+
+**Computer Vision**
+
+`YOLOv8` • `Object Detection` • `Object Tracking` • `Image Classification`
+`CNN` • `OpenCV` • `Image Processing` • `Video Analytics`
+`Real-Time Detection` • `Face Detection` • `Computer Vision`
+
+---
+
+# 🧠 Generative AI & LLM
+
+<p align="left">
+
+<a href="https://huggingface.co/" target="_blank">
+<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg"
+width="55" height="55" alt="Hugging Face"/>
+</a>
+
+</p>
+
+**Generative AI**
+
+`LLMs` • `Generative AI` • `RAG` • `Prompt Engineering`
+`Embeddings` • `Vector Search` • `Semantic Search`
+`Sentence Transformers` • `Hugging Face` • `Ollama`
+`LangChain` • `FAISS` • `ChromaDB`
+
+---
+
+# 📄 RAG & Document Intelligence
+
+**RAG Stack**
+
+`PyMuPDF` • `LangChain` • `FAISS` • `ChromaDB`
+`Sentence Transformers` • `Embeddings` • `LLMs` • `NLP`
+
+---
+
+# 🗣️ NLP
+
+`Natural Language Processing` • `Text Preprocessing`
+`Tokenization` • `Embeddings` • `Semantic Search`
+`Text Classification` • `Document Question Answering`
+`Transformers` • `Sentence Transformers`
+
+---
+
+# ⚙️ Backend & APIs
+
+<p align="left">
+
+<a href="https://fastapi.tiangolo.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg"
+width="55" height="55" alt="FastAPI"/>
+</a>
+
+<a href="https://www.djangoproject.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg"
+width="55" height="55" alt="Django"/>
+</a>
+
+<a href="https://www.docker.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"
+width="55" height="55" alt="Docker"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
+width="55" height="55" alt="Git"/>
+</a>
+
+</p>
+
+`FastAPI` • `Django` • `Django REST Framework`
+`REST API` • `HTTP` • `JSON` • `JWT`
+`API Integration` • `Webhooks` • `Docker`
+`Git` • `GitHub`
+
+---
+
+# 🔗 Automation & Integration
+
+<p align="left">
+
+<a href="https://n8n.io/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/n8n/n8n-original.svg"
+width="55" height="55" alt="n8n"/>
+</a>
+
+</p>
+
+`n8n` • `Workflow Automation` • `API Integration`
+`Webhooks` • `Google Forms Automation` • `Automated Workflows`
+
+---
+
+# 📊 Data Analytics & Visualization
+
+<p align="left">
+
+<a href="https://powerbi.microsoft.com/" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"
+width="55" height="55" alt="Power BI"/>
+</a>
+
+</p>
+
+`Power BI`  • `Data Visualization`
+`Dashboard Development` • `Data Analysis` • `Business Intelligence`
+
+---
+
+
+# 📫 Let's Connect
+
+<p align="center">
+
+<a href="mailto:randhirkumar015@gmail.com">
+<img src="https://img.shields.io/badge/Email-randhirkumar015%40gmail.com-00D9FF?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/randhir026">
+<img src="https://img.shields.io/badge/GitHub-randhir026-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### ⚡ CODE • TRAIN • BUILD • INNOVATE
+
+
+</p>
